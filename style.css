@@ -222,17 +222,17 @@ img {
 9. COUNTER SECTION
 --------------------------------- */
 
-.counter-section{ position: relative; padding: 100px 0 70px; background-size: cover; z-index: 1;
-  background-image: url(../../images/slider-2-1920x600.jpg); color: #fff; }
+/*.counter-section{ position: relative; padding: 100px 0 70px; background-size: cover; z-index: 1;*/
+  /*background-image: url(); color: #fff; }*/
 
-.counter-section:after{ content:''; z-index: -1; position: absolute; top: 0; bottom: 0; left: 0;
-  right: 0; background: rgba(0,0,0, .2); }
+/*.counter-section:after{ content:''; z-index: -1; position: absolute; top: 0; bottom: 0; left: 0;*/
+  /*right: 0; background: rgba(0,0,0, .2); }*/
 
-.counter{ position: relative; }
+/*.counter{ position: relative; }*/
 
-.counter .title{ text-align: right; margin-right: 130px; }
+/*.counter .title{ text-align: right; margin-right: 130px; }*/
 
-.counter .desc{ position: absolute; bottom: 4px; right: 0px; width: 110px; }
+/*.counter .desc{ position: absolute; bottom: 4px; right: 0px; width: 110px; }*/
 
 
 /* RADIAL PREOGRESS SECTION */

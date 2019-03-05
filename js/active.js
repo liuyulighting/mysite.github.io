@@ -1,3 +1,5 @@
+// import * as WOW from "../js2/aos.min";
+
 (function ($) {
     'use strict';
 
@@ -96,12 +98,12 @@
         $(this).addClass('active');
     })
 
-    // :: 6.0 Magnific Popup Active Code
-    // if ($.fn.magnificPopup) {
-    //     $('.zoom-img').magnificPopup({
-    //         type: 'image'
-    //     });
-    // }
+    // :: 6.0 Magnific Popup Active Code  弹出图片
+    if ($.fn.magnificPopup) {
+        $('.zoom-img').magnificPopup({
+            type: 'image'
+        });
+    }
     
     // :: 7.0 ScrollUp Active Code
     if ($.fn.scrollUp) {
@@ -112,12 +114,12 @@
     }
 
     // :: 8.0 CounterUp Active Code
-    if ($.fn.counterUp) {
-        $('.counter').counterUp({
-            delay: 10,
-            time: 2000
-        });
-    }
+    // if ($.fn.counterUp) {
+    //     $('.counter').counterUp({
+    //         delay: 10,
+    //         time: 2000
+    //     });
+    // }
 
     // :: 9.0 Progress Bar Active Code
     if ($.fn.circleProgress) {
