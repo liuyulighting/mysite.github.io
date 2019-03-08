@@ -27,7 +27,7 @@ body {
   text-align: right;
 }
 .sunny {
-  background: url(../works/1/hero_2.jpg) no-repeat center center !important;
+  background: url(../works/1/sunny-min.png) no-repeat center center !important;
 }
 
 .title-back {
@@ -54,7 +54,7 @@ body {
 }
 
 .pageScroll.left {
-  margin-left: -680px;
+  margin-left: -48%;
   justify-content-center;
 }
 #sl-menu {
