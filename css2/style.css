@@ -352,6 +352,9 @@ h1, h2, h3, h4, h5 { color: #000; }
 a { -webkit-transition: .3s all ease; -o-transition: .3s all ease; transition: .3s all ease; }
 
 a:hover, a:active, a:focus { text-decoration: none; outline: none; }
+.container{
+  max-width: none;
+}
 
 .templateux-navbar { position: absolute; top: 0; left: 0; width: 100%; padding: 35px 0; z-index: 99999; }
 
