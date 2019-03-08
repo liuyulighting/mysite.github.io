@@ -19,15 +19,16 @@ jQuery(document).ready(function($){
   });
 
   $(function(){
+
 // 监听滚动事件
     $(window).scroll(function(){
 // 获得div的高度
-      var h = $(".testimony").offset().top;
+      var h = $(".title-back").offset().top;
       if( $(this).scrollTop() > h){
 // 滚动到指定位置
-        $(".back-ground>div").css("position",'absolute');
+        return $("#sl-menu").css("display",'block');
       } else {
-        $(".back-ground>div").css("position",'fixed');
+        return $("#sl-menu").css("display",'none');
       }
     });
   })

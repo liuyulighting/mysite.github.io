@@ -9,6 +9,7 @@ body {
 
 .back-ground{
   background-color: #FFFFFF
+
 }
 
 .photo {
@@ -17,20 +18,30 @@ body {
   position: fixed;
   width: 100vw;
   height: 100vh;
-  filter: blur(0px);
+  filter: blur(10px);
   background-size: cover;
 }
 
+.white-text  {
+  color: #FFFFFF !important;
+  text-align: right;
+}
 .sunny {
-  background: url(../works/1/sunny.jpg) no-repeat center center !important;
+  background: url(../works/1/sunny.png) no-repeat center center !important;
 }
 
-/*.title-back {*/
-  /*content: "";*/
-  /*position: relative;*/
-  /*background-image: linear-gradient(-215deg, #AACFFF 17%, #71A2FF 100%);*/
-  /*border-radius:10px;*/
-/*}*/
+.title-back {
+  content: "";
+  position: relative;
+  background-color: #ffbe00;
+  border-radius:10px;
+  display: inline;
+}
+
+.haha {
+  color: inherit;
+}
+
 
 .pageScroll {
   position: fixed !important;
@@ -45,6 +56,16 @@ body {
 .pageScroll.left {
   margin-left: -680px;
   justify-content-center;
+}
+#sl-menu {
+  display: none;
+}
+.pageScroll a {
+  color:lightgray;
+}
+
+.pageScroll a:active{
+  color: #007bff;
 }
 
 /*滑动图片*/
@@ -405,11 +426,14 @@ a:hover, a:active, a:focus { text-decoration: none; outline: none; }
 
 .templateux-hero, .intro { height: 90vh; min-height: 900px; }
 
-.templateux-hero h1, .intro h1 { color: #000; font-size: 70px; }
+.templateux-hero h1, .intro h1 { color: #ffffff; font-size: 70px; }
 
 @media (max-width: 991.98px) { .templateux-hero h1, .intro h1 { font-size: 36px; } }
 
 .templateux-portfolio-overlap { position: relative; margin-top: 0px ; padding: 50px; background-color: #FFFFFF; }
+
+.templateux-portfolio-overlap p { font-size: 16px;}
+.templateux-portfolio-overlap ul { font-size: 15px; padding-left: 0;}
 
 @media (max-width: 991.98px) { .templateux-portfolio-overlap { margin-top: -20px; } }
 

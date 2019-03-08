@@ -63,7 +63,7 @@
     font-size: 0; }
   .redils-centered .slides {
     display: inline-block;
-    vertical-align: top; }
+    vertical-align: center; }
     .redils-centered .slides img {
       width: 385px;
       height: auto; }

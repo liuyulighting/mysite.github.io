@@ -100,7 +100,7 @@
 
     // :: 6.0 Magnific Popup Active Code  弹出图片
     if ($.fn.magnificPopup) {
-        $('.zoom-img').magnificPopup({
+        $('.haha').magnificPopup({
             type: 'image'
         });
     }
