@@ -30,7 +30,12 @@ body {
   background: url(../works/1/sunny.png) no-repeat center center !important;
 }
 
+.loft {
+  background: url(../works/2/lf.jpg) no-repeat center center !important;
+}
+
 .title-back {
+  margin: 15px;
   content: "";
   position: relative;
   background-color: #ffbe00;
