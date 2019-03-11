@@ -8,8 +8,8 @@ body {
 }
 
 .back-ground{
-  background-color: #FFFFFF
-
+  background-color: #FFFFFF;
+  width: 100%;
 }
 
 .photo {
@@ -28,10 +28,22 @@ body {
 }
 .sunny {
   background: url(../works/1/sunny.png) no-repeat center center !important;
+  background-size: cover !important;
 }
 
 .loft {
   background: url(../works/2/lf.jpg) no-repeat center center !important;
+
+}
+
+.ds {
+  background: url(../works/4/ds.png) no-repeat !important;
+  background-size: cover !important;
+}
+
+.bs {
+  background: url(../works/5/bs.png) no-repeat !important;
+  background-size: cover !important;
 }
 
 .title-back {
