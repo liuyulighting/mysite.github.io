@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <title>Dynamic Structure</title>
+    <title>AB TEST</title>
     <link rel="icon" href="img/core-img/favicon.ico">
     <link rel="stylesheet" href="css2/bootstrap.min.css">
     <link rel="stylesheet" href="css2/aos.min.css">
@@ -64,16 +64,13 @@
             <a href="#one" class="mt-5 js-smoothscroll">Showcase</a>
           </li>
           <li>
-            <a href="#two" class="mt-5 js-smoothscroll">The Initial Idea</a>
+            <a href="#two" class="mt-5 js-smoothscroll">Experiment Design</a>
           </li>
           <li>
-            <a href="#three" class="mt-5 js-smoothscroll">Design Process</a>
+            <a href="#three" class="mt-5 js-smoothscroll">Experiment Analysis</a>
           </li>
           <li>
-            <a href="#four" class="mt-5 js-smoothscroll">User Testing</a>
-          </li>
-          <li>
-            <a href="#five" class="mt-5 js-smoothscroll">New Breaking Works</a>
+            <a href="#four" class="mt-5 js-smoothscroll">Follow-Up Experiment</a>
           </li>
 
         </ul>
@@ -102,7 +99,7 @@
               </div>
               <div class="col-md-3">
                 <span class=caption>Team</span>
-                <strong>Zhangxinwei<br>Liuyu<br>Huangyuanxuan<br>Xiaojinsong</strong>
+                <strong>Liuyu<br></strong>
               </div>
               <div class="col-md-3">
                 <span class=caption>Type</span>
@@ -117,45 +114,35 @@
             <h1>About the Background</h1>
             <div class="row">
               <div class="col-md-6">
-                <p class="mb-5">With the diversification of designs in sculpture, the manifestation gradually lay more emphases on the four-dimensional (4D) space, which refers to time. Numerous works of this type have been created by artists since the early 20th century.</p>
+                <p class="mb-5">本项目为我在优达学城数据分析纳米学位的毕业项目，同时也是研究生课程整合设计的课堂作业展示的一部分（虽然最后没能展示这部分……），目的是设计一个合理的ab测试。在本项目中，我所要考虑的是由优达学城运行过的一个真实试验。具体数字已做更改，但是模式并没有改变。我需要将试验的想法变成一个完整定义的设计、分析其结果，并提供一个高层次的后续实验。</p>
               </div>
 
               <div class="col-md-6">
-                <p>Designed by Anthony Howe, the flame brazier in the 2016 Rio Summer Olympics was one of them. Featuring its advantages on expressivity of products and diversity of functions, the dynamic design is becoming a new trend of designing.</p>
+                <p>在进行此试验时，优达学城当前的主页上有两个选项：“开始免费试学”和“访问课程资料”。如果学生点击“开始免费试学”，系统将要求他们输入信用卡信息，然后他们将进入付费课程版本的免费试学。14天后，将对他们自动收费，除非他们在此期限结束前取消试用。若学生点击“访问课程材料”，他们将能够观看视频和免费进行小测试，但是他们不会获得导师指导支持或验证证书，无法提交最终项目来获取反馈。</p>
               </div>
             </div>
 
-            <p class="text-center mb-5"><img src="works/4/ds2.jpg" alt="Image placeholder" class="img-fluid"></p>
+            <p class="text-center mb-5"><img src="works/6/ab1.png" alt="Image placeholder" class="img-fluid"></p>
+            <div style="height:10vh"></div>
 
             <div class="row mb-5" >
               <div class="col-md-4">
-                <h1>The Problem</h1>
-                <h2 style="color: #273782">设计师面临的问题</h2>
+                <h1>The Task</h1>
+                <h2 style="color: #273782">任务</h2>
               </div>
               <div class="col-md-8">
-                <p>Many 3D artists prefer using Cinema 4D (a 3D modeling, animation, motion graphics, and rendering application developed by MAXON) to create prototypes when designing dynamic artwork. Use of such a program creates a problem:</p>
+                <p>在此试验中，优达学城测试了一项变化，如果学生点击“开始免费试学”，系统会问他们有多少时间投入到这个课程中。如果学生表示每周5小时或更多，将按常规程序进行登录。如果他们表示一周不到5小时，将出现一条消息说明优达学城的课程通常需要更多的时间投入才能成功完成，并建议学生可免费访问课程资料。在这里，学生可选择继续进行免费试学，或免费访问课程资料。这张截图展示了试验概况。</p>
                 <ul>
-                  <li>Procedural modeling tools such as C4D are demanding in terms of skill and time required due to the complexity of the operation</li>
-                  <li>The programs are difficult to learn</li>
-                  <li>The threshold of prototyping limits designers’ creativity.</li>
+                  <li>我们的假设是这会为学生预先设定明确的期望，从而减少因为没有足够的时间而离开免费试学，并因此受挫的学生数量，同时不会在很大程度上减少继续通过免费试学和最终完成课程的学生数量。</li>
+                  <li>如果这个假设最后为真，优达学城将改进整体学生体验和提高导师为能够完成课程的学生提供支持的能力。</li>
+                  <li>转移单位为 cookie，尽管学生参加的是免费试学，但在登录后他们的用户 id 便被跟踪。同一个用户id不能两次参加免费试学。</li>
+                  <li>对于不参加免费试学的用户，他们的用户id不会在试验中被跟踪，即使他们在访问课程概述页面时登录了网站。</li>
                 </ul>
               </div>
 
             </div>
 
-            <div class="row" data-aos="fade-up" >
-              <div class="col-md-12 clearfix mb-3">
-                <h1>What we do</h1>
-              </div>
-              <div class="col-md-6">
-                <p>We showcase a method of solving the above problem: we introduce a prototyping tool for kinetic sculpture design. By editing the sketches in the user interface, the designer can generate lo-fi simple 3D models and animation without difficulty. </p>
-              </div>
-              <div class="col-md-6">
-                <p>We present users’ feedback to verify the usability of our system. The program presents a more efficient package for both experts and novices who wish to instantiate ideas quickly and without hassle. Our work should help to acquaint artists from different backgrounds with this art form.</p>
-              </div>
-            </div>
-
-            <p class="text-center mb-5"><img src="works/4/ds3.png" alt="Image placeholder" class="img-fluid"></p>
+            <p class="text-center mb-5"><img src="works/6/ab2.png" alt="Image placeholder" class="img-fluid"></p>
 
 
          </div>
@@ -170,9 +157,9 @@
         <div class="row justify-content-center">
           <div class="col-md-10">
             <blockquote class="mb-5">
-              <h1>The initial idea</h1>
+              <h1>Experiment Design</h1>
             </blockquote>
-            <p class="author">&mdash; <span>最初的想法</span></p>
+            <p class="author">&mdash; <span>实验设计</span></p>
           </div>
         </div>
       </div>
@@ -183,18 +170,58 @@
       <div class="container" data-aos="fade-up">
         <div class="row justify-content-center">
           <div class="col-md-10">
-
-            <h1>Toolkit for inexperienced designers</h1>
-            <div class="row">
-              <div class="col-md-6">
-
-                <p class="mb-5">Computers can easily repeat basic elements to achieve demonstrate complex aesthetics.However, those tools needed codes and math is not suitable for designers who unfamiliar with digital design.</p>
+            <div class="row" >
+              <div class="col-md-4">
+                <h1>Metric Choice</h1>
+                <h2 style="color: #FFA600">选择和描述指标</h2>
               </div>
-              <div class="col-md-6">
-                <p>We aimed to lower the threshold of dynamic multi-unit modeling prototype design and encourages designers from different backgrounds to engage in kinetic sculpture.</p>
+              <div class="col-md-8">
+                <p><h3>不变指标</h3>cookie是分组单元，肯定是不变的，测试的是首页的子页面，不会影响首页的情况，也就不会影响cookie数量；首页没有任何改变，cookie不变，点击次数也不变；点击次数不变，cookie不变，点进概率也不变；</p>
+                <ul>
+                  <li>Number of cookies（Cookie的数量）</li>
+                  <li> Number of clicks（点击次数）</li>
+                  <li> Click-through-probalility（点进概率）</li>
+                </ul>
+                <p><h3>评估指标</h3>因为提醒用户每周5小时学习时间，可能会影响完成登录并参加免费试学的用户id的数量，是我们想通过A/B测试来研究的问题，实验预期是减少无法一周学习5小时的人离开免费试学，即：分子会减小，分母不变，因此总转化率期望是减小；因为提醒用户每周5小时学习时间，会对付费用户和完成免费试用的用户的比例产生影响，是个很好的评估指标，因为根据预期，期望最终通过免费试学和最终完成课程的学生数量不变，而登录的用户id数量减少，根据公式，留存率会增大；为提醒用户每周5小时学习时间，会对付费用户产生影响，因此净转化率是个很好的评估指标，根据实验预期，付费用户不变，点击“开始免费试学”按钮的唯一cookie数量不变，所以净转化率的期望结果不变</p>
+                <ul>
+                  <li>Gross conversion（总转化率）期望结果：减小</li>
+                  <li>Retention（留存率）期望结果：增大</li>
+                  <li>Net conversion（净转化率）期望结果：不变</li>
+                </ul>
               </div>
+
             </div>
-            <!--<p class="text-center mb-5"><img src="" alt="Image placeholder" class="img-fluid"></p>-->
+            <div class="row" >
+              <div class="col-md-4">
+                <h1>Measuring Standard Deviation</h1>
+                <h2 style="color: #FFA600">确认显著性水平和统计功效</h2>
+              </div>
+              <div class="col-md-8">
+                <p><h3>不变指标</h3>cookie是分组单元，肯定是不变的，测试的是首页的子页面，不会影响首页的情况，也就不会影响cookie数量；首页没有任何改变，cookie不变，点击次数也不变；点击次数不变，cookie不变，点进概率也不变；</p>
+                <ul>
+                  <li>Number of cookies（Cookie的数量）</li>
+                  <li> Number of clicks（点击次数）</li>
+                  <li> Click-through-probalility（点进概率）</li>
+                </ul>
+                <p><h3>评估指标</h3>因为提醒用户每周5小时学习时间，可能会影响完成登录并参加免费试学的用户id的数量，是我们想通过A/B测试来研究的问题，实验预期是减少无法一周学习5小时的人离开免费试学，即：分子会减小，分母不变，因此总转化率期望是减小；因为提醒用户每周5小时学习时间，会对付费用户和完成免费试用的用户的比例产生影响，是个很好的评估指标，因为根据预期，期望最终通过免费试学和最终完成课程的学生数量不变，而登录的用户id数量减少，根据公式，留存率会增大；为提醒用户每周5小时学习时间，会对付费用户产生影响，因此净转化率是个很好的评估指标，根据实验预期，付费用户不变，点击“开始免费试学”按钮的唯一cookie数量不变，所以净转化率的期望结果不变</p>
+                <ul>
+                  <li>Gross conversion（总转化率）期望结果：减小</li>
+                  <li>Retention（留存率）期望结果：增大</li>
+                  <li>Net conversion（净转化率）期望结果：不变</li>
+                </ul>
+              </div>
+
+            </div>
+            <div class="row" >
+              <div class="col-md-4">
+                <h1>Sizing</h1>
+                <h2 style="color: #FFA600">计算样本容量</h2>
+              </div>
+              <div class="col-md-8">
+                <p>We researched many aspects of dynamic artists’ work, including watching videos of kinetic sculpture, interviewing the artists, and creating prototypes ourselves in order to extract a simple prototype design method.We found modeling and simulation takes a lot of time during this process.A simple drawing can easily lead to a kinetic structure,there are three basic elements that feature in kinetic sculpture</p>
+              </div>
+
+            </div>
 
           </div>
 
@@ -234,22 +261,6 @@
             </div>
             <p class="text-center mb-5"><img src="works/4/ds5.png" alt="Image placeholder" class="img-fluid"></p>
             <div style="height:10vh"></div>
-            <!--<div class="row " >-->
-              <!--<div class="col-md-4">-->
-                <!--<h1>Brainstorm Graphic Organizers</h1>-->
-                <!--<h2 style="color: #FFA600">头脑风暴头像组织</h2>-->
-              <!--</div>-->
-              <!--<div class="col-md-8">-->
-                <!--<p>A simple drawing can easily lead to a kinetic structure. There are three basic elements that feature in kinetic sculpture: axis , contour , and unit.I usually start the design process with low fidelity wireframes. This is the way I iterate through many design options quickly.</p>-->
-                <!--<ul>-->
-                  <!--<li>What was the main purpose of your sketches? (presenting, testing, brainstorming?)</li>-->
-                  <!--<li>How many different versions were made?</li>-->
-                  <!--<li>Which version did you choose to go on with and why?</li>-->
-                <!--</ul>-->
-              <!--</div>-->
-
-            <!--</div>-->
-            <!--<p class="text-center mb-5"><img src="works/4/ds6.jpg" alt="Image placeholder" class="img-fluid"></p>-->
             <div style="height:10vh"></div>
             <div class="row " >
               <div class="col-md-4">
@@ -308,28 +319,6 @@
             </div>
           </div>
         </div>
-    </section>
-
-    <section class="testimony" id="four">
-      <div class="container">
-        <div class="row justify-content-center">
-          <div class="col-md-10">
-            <blockquote class="mb-5">
-              <h1>Late Breaking Works</h1>
-            </blockquote>
-            <p class="author">&mdash; <span>最新的成果</span></p>
-          </div>
-        </div>
-      </div>
-    </section>
-
-    <section class="templateux-portfolio-overlap " >
-      <div class="container" data-aos="fade-up">
-        <div class="row justify-content-center">
-          <div class="col-md-10">
-            <h1>未完待续</h1>
-          </div>
-      </div>
     </section>
 
 
