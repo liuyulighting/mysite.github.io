@@ -46,6 +46,11 @@ body {
   background-size: cover !important;
 }
 
+.ab_test {
+  background: url(../works/6/ab.png) no-repeat !important;
+  background-size: cover !important;
+}
+
 .title-back {
   margin: 15px;
   content: "";
