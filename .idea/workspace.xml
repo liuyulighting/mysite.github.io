@@ -4,6 +4,7 @@
     <list default="true" id="1b9a45db-dbac-45c6-a663-115bb1d67ab4" name="Default Changelist" comment="">
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/portfolio.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio.html" afterDir="false" />
 ||||||| ff97b6e... 更新了简历
@@ -17,9 +18,18 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
 =======
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+||||||| 859f77f... 37
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+=======
+>>>>>>> parent of 859f77f... 37
       <change beforePath="$PROJECT_DIR$/portfolio.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio.html" afterDir="false" />
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/services.html" beforeDir="false" afterPath="$PROJECT_DIR$/services.html" afterDir="false" />
 >>>>>>> parent of ff97b6e... 更新了简历
+||||||| 859f77f... 37
+      <change beforePath="$PROJECT_DIR$/services.html" beforeDir="false" afterPath="$PROJECT_DIR$/services.html" afterDir="false" />
+=======
+>>>>>>> parent of 859f77f... 37
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -37,6 +47,7 @@
           <provider selected="true" editor-type-id="text-editor">
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
             <state relative-caret-position="288">
               <caret line="115" column="41" lean-forward="true" selection-start-line="115" selection-start-column="41" selection-end-line="115" selection-end-column="41" />
 ||||||| ff97b6e... 更新了简历
@@ -51,6 +62,13 @@
             <state relative-caret-position="217">
               <caret line="69" column="122" selection-start-line="69" selection-start-column="49" selection-end-line="69" selection-end-column="122" />
 >>>>>>> parent of ff97b6e... 更新了简历
+||||||| 859f77f... 37
+            <state relative-caret-position="217">
+              <caret line="69" column="122" selection-start-line="69" selection-start-column="49" selection-end-line="69" selection-end-column="122" />
+=======
+            <state relative-caret-position="279">
+              <caret line="106" column="59" lean-forward="true" selection-start-line="106" selection-start-column="59" selection-end-line="106" selection-end-column="59" />
+>>>>>>> parent of 859f77f... 37
             </state>
           </provider>
         </entry>
@@ -250,8 +268,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/services.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="217">
-              <caret line="69" column="122" selection-start-line="69" selection-start-column="122" selection-end-line="69" selection-end-column="122" />
+            <state relative-caret-position="330">
+              <caret line="124" column="98" selection-start-line="124" selection-start-column="98" selection-end-line="124" selection-end-column="98" />
               <folding>
                 <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#style#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -261,6 +279,7 @@
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
@@ -293,6 +312,25 @@
           </provider>
         </entry>
       </file>
+||||||| 859f77f... 37
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="64" column="36" lean-forward="true" selection-start-line="64" selection-start-column="36" selection-end-line="64" selection-end-column="36" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#2;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+=======
+>>>>>>> parent of 859f77f... 37
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/work-single.html">
           <provider selected="true" editor-type-id="text-editor">
@@ -345,6 +383,15 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
+<<<<<<< HEAD
+||||||| 859f77f... 37
+      <find>wow</find>
+      <find>facebook</find>
+=======
+      <find>.preloader</find>
+      <find>wow</find>
+      <find>facebook</find>
+>>>>>>> parent of 859f77f... 37
       <find>preloader</find>
       <find>act</find>
       <find>h1</find>
@@ -372,16 +419,20 @@
       <find>原生</find>
       <find>#FFA600</find>
       <find>card</find>
+<<<<<<< HEAD
       <find>Resume.pdf</find>
       <find>pixel-projects-menu</find>
       <find>pixel-projects</find>
+||||||| 859f77f... 37
+      <find>Resume.pdf</find>
+=======
+>>>>>>> parent of 859f77f... 37
     </findStrings>
     <replaceStrings>
       <replace>col-md-10</replace>
       <replace>col-10</replace>
       <replace>col-md-3 col-lg-3</replace>
       <replace>#273782</replace>
-      <replace>https://www.dropbox.com/sh/6owitr81016s0vo/AACDu6K8CaLzKPLsIAnUcVC8a?dl=0</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -390,6 +441,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/js2/main.js" />
         <option value="$PROJECT_DIR$/css2/redils.css" />
         <option value="$PROJECT_DIR$/css2/owl.carousel.min.css" />
@@ -402,11 +454,20 @@
         <option value="$PROJECT_DIR$/bs.html" />
         <option value="$PROJECT_DIR$/abtest.html" />
         <option value="$PROJECT_DIR$/lofit.html" />
+        <option value="$PROJECT_DIR$/services.html" />
         <option value="$PROJECT_DIR$/style.css" />
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/services.html" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/js/active.js" />
         <option value="$PROJECT_DIR$/portfolio.html" />
+||||||| 859f77f... 37
+        <option value="$PROJECT_DIR$/portfolio.html" />
+        <option value="$PROJECT_DIR$/services.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+=======
+        <option value="$PROJECT_DIR$/portfolio.html" />
+>>>>>>> parent of 859f77f... 37
       </list>
     </option>
   </component>
@@ -500,6 +561,7 @@
       <workItem from="1554704048039" duration="617000" />
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       <workItem from="1554787745367" duration="1604000" />
       <workItem from="1554901059353" duration="271000" />
       <workItem from="1564652125199" duration="1149000" />
@@ -517,10 +579,16 @@
 =======
       <workItem from="1554787745367" duration="985000" />
 >>>>>>> parent of ff97b6e... 更新了简历
+||||||| 859f77f... 37
+      <workItem from="1554787745367" duration="985000" />
+=======
+      <workItem from="1554787745367" duration="322000" />
+>>>>>>> parent of 859f77f... 37
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
     <option name="totallyTimeSpent" value="185608000" />
@@ -534,6 +602,11 @@
 =======
     <option name="totallyTimeSpent" value="182709000" />
 >>>>>>> parent of ff97b6e... 更新了简历
+||||||| 859f77f... 37
+    <option name="totallyTimeSpent" value="182709000" />
+=======
+    <option name="totallyTimeSpent" value="182046000" />
+>>>>>>> parent of 859f77f... 37
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="877" extended-state="0" />
@@ -614,6 +687,20 @@
             <element signature="e#71924#72173#2" expanded="true" />
             <element signature="e#99236#99426#2" expanded="true" />
             <element signature="e#99472#99662#2" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3243">
+          <caret line="141" column="125" selection-start-line="141" selection-start-column="125" selection-end-line="141" selection-end-column="125" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#2;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -951,6 +1038,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/services.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="124" column="98" selection-start-line="124" selection-start-column="98" selection-end-line="124" selection-end-column="98" />
+          <folding>
+            <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#style#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#p#0;n#div#1;n#div#1;n#div#0;n#div#0;n#section#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/lofit.html">
       <provider selected="true" editor-type-id="text-editor">
 <<<<<<< HEAD
@@ -1175,6 +1274,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/portfolio.html">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="217">
           <caret line="69" column="122" selection-start-line="69" selection-start-column="49" selection-end-line="69" selection-end-column="122" />
         </state>
@@ -1395,6 +1495,39 @@
             <element signature="n#style#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
 >>>>>>> parent of ff97b6e... 更新了简历
+||||||| 859f77f... 37
+        <state relative-caret-position="217">
+          <caret line="69" column="122" selection-start-line="69" selection-start-column="49" selection-end-line="69" selection-end-column="122" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/services.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="69" column="122" selection-start-line="69" selection-start-column="122" selection-end-line="69" selection-end-column="122" />
+          <folding>
+            <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#style#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#p#0;n#div#1;n#div#1;n#div#0;n#div#0;n#section#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="64" column="36" lean-forward="true" selection-start-line="64" selection-start-column="36" selection-end-line="64" selection-end-column="36" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#2;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+=======
+        <state relative-caret-position="279">
+          <caret line="106" column="59" lean-forward="true" selection-start-line="106" selection-start-column="59" selection-end-line="106" selection-end-column="59" />
+>>>>>>> parent of 859f77f... 37
         </state>
       </provider>
     </entry>
