@@ -386,12 +386,13 @@ a:hover, a:active, a:focus { text-decoration: none; outline: none; }
 .templateux-navbar .toggle-menu { z-index: 9999; position: relative; top: -13px; display: none; }
 
 @media (max-width: 767.98px) { .templateux-navbar .toggle-menu { display: block; } }
+/*@media (max-width: 300px) { .templateux-navbar .site-logo { font-size: 30px;} }*/
 
 .templateux-navbar .toggle-menu:active, .templateux-navbar .toggle-menu:focus { outline: none; }
 
 .templateux-navbar .site-logo { position: relative; top: -10px; z-index: 9999; }
 
-.templateux-navbar .site-logo a { font-size: 30px; color: #000; }
+.templateux-navbar .site-logo a { font-size: 1em; color: #000; }
 
 .templateux-navbar .templateux-menu { position: relative; }
 
