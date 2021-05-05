@@ -1420,7 +1420,10 @@ img {
   position: relative;
   z-index: 1; }
   .single-service-block h4 {
-    text-transform: uppercase; }
+    text-transform: uppercase;
+    font-size: 26px;
+    color: #5d6266;
+  }
   .single-service-block p {
     margin-bottom: 0; }
 
