@@ -1856,6 +1856,29 @@ img {
     display: block;
     color: #ffffff; }
 
+.Hero {
+  position: relative;
+}
+
+.Hero svg {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+}
+.load h3 {
+  animation: HeroAnimation 4s 0.1s forwards cubic-bezier(0.2, 0.8, 0.2, 1);
+  opacity: 0;
+}
+
+@keyframes HeroAnimation {
+  0% {
+    opacity: 0;
+    transform: translateY(20px)
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0px)
+  }
 /* ====== The End ====== */
 
 /*# sourceMappingURL=style.css.map */
